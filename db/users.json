@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "firstname": "baqay",
+    "lastname": "valiyev",
+    "email": "ali@gmail.com",
+    "password": "$2b$12$YeDCxDBakoaIh77zL40rYem9b1tdmXHyT0R4DJrirgR6u2JH8jcdG"
+  },
+  {
+    "id": 2,
+    "firstname": "rovshan",
+    "lastname": "roziqov",
+    "email": "rovshan@gmail.com",
+    "password": "$2b$12$3fnap0mt.uIyCLRTGlKhSu/Ho9BuTLF4qpiOBN/oPOy78JSO45H.6"
+  },
+  {
+    "id": 3,
+    "firstname": "a",
+    "lastname": "b",
+    "email": "d@gmail.com",
+    "password": "$2b$12$HyQtz7JAVvxf91SpRe/HdOC7VO.QXRHdNb6fKy3rUVGiOZV6smNfG"
+  },
+  {
+    "id": 4,
+    "firstname": "holid",
+    "lastname": "valid",
+    "email": "holid@gmail.com",
+    "password": "$2b$12$YaDcXvfVs1IkOtDFRR2Rs.1lNNoLypBPkkp4X4f6i.XCUSYnITKKK"
+  }
+]
