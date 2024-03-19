@@ -6,7 +6,11 @@ const cors = require('cors');
 const routes = require('./src/routers');
 const PORT = process.env.PORT;
 app.use(express.json());
-app.use(cors());
+app.use(
+	cors({
+		origin: '*',
+	})
+);
 
 app.use(routes);
 app.get('/', async (req, res) => {
